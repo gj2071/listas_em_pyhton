@@ -1,4 +1,4 @@
-# LISTAS EM PYHTON🚀
+# LISTAS EM PYTHON🚀
 
 Listas são como variaveis que cabem vários dados.
 
